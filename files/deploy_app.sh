@@ -14,7 +14,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  catchy marketing slogan of ACME. Wow! Its so catchy ...
+  catchy marketing slogan of ACME. Wow! Its so catchy ... updated
   <!-- END -->
 
   </div>
